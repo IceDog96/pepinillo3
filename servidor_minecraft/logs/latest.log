@@ -1,0 +1,369 @@
+[04Jan2026 00:07:49.414] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[04Jan2026 00:07:49.416] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[04Jan2026 00:07:49.416] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[04Jan2026 00:07:49.416] [Server thread/INFO] [AllTheLeaks/]: B: 2985MB / C: 3062MB / Diff: +77MB
+[04Jan2026 00:07:49.416] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[04Jan2026 00:07:49.417] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[04Jan2026 00:07:49.417] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 1
+[04Jan2026 00:17:49.460] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[04Jan2026 00:17:49.461] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[04Jan2026 00:17:49.461] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[04Jan2026 00:17:49.461] [Server thread/INFO] [AllTheLeaks/]: B: 2985MB / C: 3067MB / Diff: +82MB
+[04Jan2026 00:17:49.461] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[04Jan2026 00:17:49.462] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[04Jan2026 00:17:49.462] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 1
+[04Jan2026 00:18:06.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Jan2026 00:18:06.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: TYUKG<--[HERE]
+[04Jan2026 00:27:49.515] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[04Jan2026 00:27:49.516] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[04Jan2026 00:27:49.516] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[04Jan2026 00:27:49.516] [Server thread/INFO] [AllTheLeaks/]: B: 2985MB / C: 3054MB / Diff: +69MB
+[04Jan2026 00:27:49.516] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[04Jan2026 00:27:49.516] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[04Jan2026 00:27:49.516] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 1
+[04Jan2026 00:37:49.560] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[04Jan2026 00:37:49.560] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[04Jan2026 00:37:49.560] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[04Jan2026 00:37:49.560] [Server thread/INFO] [AllTheLeaks/]: B: 2985MB / C: 3052MB / Diff: +67MB
+[04Jan2026 00:37:49.560] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[04Jan2026 00:37:49.561] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[04Jan2026 00:37:49.561] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 1
+[04Jan2026 00:38:19.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IceDog96 was processed by Crushing Wheels
+[04Jan2026 00:39:00.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Jan2026 00:39:00.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: F<--[HERE]
+[04Jan2026 00:47:49.611] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[04Jan2026 00:47:49.611] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 1
+[04Jan2026 00:47:49.611] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[04Jan2026 00:47:49.611] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[04Jan2026 00:47:49.611] [Server thread/INFO] [AllTheLeaks/]: B: 2985MB / C: 3107MB / Diff: +122MB
+[04Jan2026 00:47:49.611] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[04Jan2026 00:47:49.612] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[04Jan2026 00:47:49.612] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 2
+[04Jan2026 00:47:49.612] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[04Jan2026 00:47:49.612] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 604
+[04Jan2026 00:57:49.659] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[04Jan2026 00:57:49.659] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 1
+[04Jan2026 00:57:49.659] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[04Jan2026 00:57:49.659] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[04Jan2026 00:57:49.660] [Server thread/INFO] [AllTheLeaks/]: B: 2985MB / C: 3066MB / Diff: +81MB
+[04Jan2026 00:57:49.660] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[04Jan2026 00:57:49.660] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[04Jan2026 00:57:49.660] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 2
+[04Jan2026 00:59:15.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Jan2026 00:59:15.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: K<--[HERE]
+[04Jan2026 01:07:49.707] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[04Jan2026 01:07:49.708] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 1
+[04Jan2026 01:07:49.708] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[04Jan2026 01:07:49.708] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[04Jan2026 01:07:49.708] [Server thread/INFO] [AllTheLeaks/]: B: 2985MB / C: 3053MB / Diff: +68MB
+[04Jan2026 01:07:49.708] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[04Jan2026 01:07:49.708] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[04Jan2026 01:07:49.708] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 2
+[04Jan2026 01:16:41.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YacaTraka[/127.90.25.131:57149] logged in with entity id 4165771 at (517.6999999880791, 67.9375, 164.69999998807907)
+[04Jan2026 01:16:41.941] [Server thread/INFO] [Create cobblestone NeoForge/]: Syncing generator types to new client
+[04Jan2026 01:16:41.944] [Server thread/INFO] [Create cobblestone NeoForge/]: Sent generator update payload (5 entries) to 1 player(s)
+[04Jan2026 01:16:41.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YacaTraka joined the game
+[04Jan2026 01:16:42.025] [Server thread/INFO] [artifacts.Artifacts/]: Sending item configs to client
+[04Jan2026 01:17:31.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> buenas noches
+[04Jan2026 01:17:49.763] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[04Jan2026 01:17:49.763] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 1
+[04Jan2026 01:17:49.763] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[04Jan2026 01:17:49.764] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[04Jan2026 01:17:49.764] [Server thread/INFO] [AllTheLeaks/]: B: 2985MB / C: 3064MB / Diff: +79MB
+[04Jan2026 01:17:49.764] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[04Jan2026 01:17:49.764] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[04Jan2026 01:17:49.764] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 2
+[04Jan2026 01:20:29.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Jan2026 01:20:29.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ED<--[HERE]
+[04Jan2026 01:27:49.814] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[04Jan2026 01:27:49.815] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 1
+[04Jan2026 01:27:49.815] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[04Jan2026 01:27:49.815] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[04Jan2026 01:27:49.815] [Server thread/INFO] [AllTheLeaks/]: B: 2985MB / C: 3081MB / Diff: +96MB
+[04Jan2026 01:27:49.815] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[04Jan2026 01:27:49.815] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[04Jan2026 01:27:49.815] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 2
+[04Jan2026 01:28:41.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YacaTraka: Set own game mode to Creative Mode]
+[04Jan2026 01:29:00.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IceDog96: Set own game mode to Creative Mode]
+[04Jan2026 01:29:05.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [IceDog96: Set own game mode to Survival Mode]
+[04Jan2026 01:30:01.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YacaTraka: Set own game mode to Survival Mode]
+[04Jan2026 01:33:18.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Jan2026 01:33:18.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: T<--[HERE]
+[04Jan2026 01:33:28.422] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[04Jan2026 01:33:40.892] [Server thread/INFO] [minecolonies/]: Removing citizens for 1
+[04Jan2026 01:33:40.892] [Server thread/INFO] [minecolonies/]: Kill Citizen Erik L. Greene
+[04Jan2026 01:33:40.893] [Server thread/INFO] [minecolonies/]: Kill Citizen Myah S. McDonald
+[04Jan2026 01:33:40.893] [Server thread/INFO] [minecolonies/]: Kill Citizen Alejandro Q. Beauchamp
+[04Jan2026 01:33:40.893] [Server thread/INFO] [minecolonies/]: Kill Citizen Jamie L. Coggshall
+[04Jan2026 01:33:40.893] [Server thread/INFO] [minecolonies/]: Removing buildings for 1
+[04Jan2026 01:33:40.898] [Server thread/INFO] [minecolonies/]: Delete Building at BlockPos{x=310, y=103, z=191}
+[04Jan2026 01:33:40.903] [Server thread/INFO] [minecolonies/]: Colony 1 - removed AbstractBuilding BlockPos{x=310, y=103, z=191} of type townhall
+[04Jan2026 01:33:40.907] [Server thread/INFO] [minecolonies/]: Found Block, deleting Block{minecolonies:blockhuttownhall}
+[04Jan2026 01:33:40.912] [Server thread/INFO] [minecolonies/]: Deleting colony: 1
+[04Jan2026 01:33:40.922] [Server thread/INFO] [minecolonies/]: Successfully deleted colony: 1
+[04Jan2026 01:33:51.089] [Server thread/INFO] [minecolonies/]: New Colony Id: 1 by YacaTraka
+[04Jan2026 01:37:43.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Jan2026 01:37:43.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: g<--[HERE]
+[04Jan2026 01:37:49.870] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[04Jan2026 01:37:49.870] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 1
+[04Jan2026 01:37:49.871] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[04Jan2026 01:37:49.871] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[04Jan2026 01:37:49.871] [Server thread/INFO] [AllTheLeaks/]: B: 2985MB / C: 3113MB / Diff: +128MB
+[04Jan2026 01:37:49.871] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[04Jan2026 01:37:49.871] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[04Jan2026 01:37:49.871] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 2
+[04Jan2026 01:38:57.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> jelo
+[04Jan2026 01:39:03.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> buena noche buena noche
+[04Jan2026 01:39:13.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> wena wena
+[04Jan2026 01:39:16.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Jan2026 01:39:16.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: e<--[HERE]
+[04Jan2026 01:39:27.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> le avancé un poco
+[04Jan2026 01:39:42.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> me iba a poner a hacer una granja de algas
+[04Jan2026 01:39:46.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> ya vi xdd
+[04Jan2026 01:39:58.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> ya hiciste toda la cadena de producción
+[04Jan2026 01:40:07.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> masomeno XD
+[04Jan2026 01:40:11.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> fue un pdo
+[04Jan2026 01:40:14.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> pero ya
+[04Jan2026 01:40:26.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> ando desde las 10 u 11 creo
+[04Jan2026 01:40:38.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> te quedaste la andesita veda
+[04Jan2026 01:40:45.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> si xdd
+[04Jan2026 01:41:02.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> ostias hay gente
+[04Jan2026 01:41:07.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> y no hay nada XD
+[04Jan2026 01:41:40.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> no se vayan a morir necesitan comer
+[04Jan2026 01:42:04.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> cuando tengas tiempo ve un tuto de como iniciar xd
+[04Jan2026 01:42:19.482] [Server thread/WARN] [minecolonies/]: Handling Survival Placement in Colony
+[04Jan2026 01:42:29.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YacaTraka has made the advancement [Check Out the Guide]
+[04Jan2026 01:42:45.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> que se mueran de hambre por pendejos
+[04Jan2026 01:42:53.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> D
+[04Jan2026 01:43:51.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> dijiste te aviso y no avisaste XD
+[04Jan2026 01:44:03.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> xdd cierto
+[04Jan2026 01:44:08.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> me distraje y nomas entré
+[04Jan2026 01:44:36.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> estaba viendo que hay etanol
+[04Jan2026 01:44:41.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> y maquinas de diesel
+[04Jan2026 01:44:46.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> aaaah si
+[04Jan2026 01:44:58.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> no se donde haya petroleo
+[04Jan2026 01:45:04.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> el desierto creo
+[04Jan2026 01:45:48.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Jan2026 01:45:48.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sd<--[HERE]
+[04Jan2026 01:46:09.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> la cosechadora tambien servirá bajo el agua con las algas
+[04Jan2026 01:46:16.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> supongo que si
+[04Jan2026 01:46:24.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YacaTraka has made the advancement [The Builder Begins]
+[04Jan2026 01:46:35.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> y si no las uso para las papas
+[04Jan2026 01:46:44.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> oe pasa la andesita
+[04Jan2026 01:46:53.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> veni
+[04Jan2026 01:47:23.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> especificamente 1790 xd
+[04Jan2026 01:47:29.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> si
+[04Jan2026 01:47:33.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> pq
+[04Jan2026 01:47:42.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> floto
+[04Jan2026 01:47:46.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> porque en ese año empezó la revolucion industrial
+[04Jan2026 01:47:49.917] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[04Jan2026 01:47:49.917] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 1
+[04Jan2026 01:47:49.917] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[04Jan2026 01:47:49.917] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[04Jan2026 01:47:49.917] [Server thread/INFO] [AllTheLeaks/]: B: 2985MB / C: 3129MB / Diff: +144MB
+[04Jan2026 01:47:49.917] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[04Jan2026 01:47:49.918] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[04Jan2026 01:47:49.918] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 2
+[04Jan2026 01:47:50.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> wtf
+[04Jan2026 01:47:58.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> brujeria
+[04Jan2026 01:48:03.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> soy Dios
+[04Jan2026 01:48:09.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> aaaaaaa
+[04Jan2026 01:48:18.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> quiero agarrar la andesita y floto
+[04Jan2026 01:48:30.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> dame permisos
+[04Jan2026 01:48:42.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> no me deja hacer nada pq no es mi territorio
+[04Jan2026 01:48:48.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> ya
+[04Jan2026 01:48:49.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> ahi ta
+[04Jan2026 01:48:56.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> lo voy a explotar un dia
+[04Jan2026 01:50:49.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YacaTraka has made the advancement [Fulfillment Comes Cheap]
+[04Jan2026 01:52:41.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> spruce es abeto?
+[04Jan2026 01:52:47.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> alto
+[04Jan2026 01:52:49.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> si
+[04Jan2026 01:52:58.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> en minecraft java
+[04Jan2026 01:55:54.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> y tenemos abetos altos?
+[04Jan2026 01:56:37.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> ns
+[04Jan2026 01:56:43.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> creo q no
+[04Jan2026 01:57:49.982] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[04Jan2026 01:57:49.983] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 1
+[04Jan2026 01:57:49.983] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[04Jan2026 01:57:49.983] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[04Jan2026 01:57:49.983] [Server thread/INFO] [AllTheLeaks/]: B: 2985MB / C: 3316MB / Diff: +331MB
+[04Jan2026 01:57:49.983] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[04Jan2026 01:57:49.983] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[04Jan2026 01:57:49.983] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 2
+[04Jan2026 01:57:49.984] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[04Jan2026 01:57:49.984] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 855
+[04Jan2026 01:59:17.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> y la mochila de andesita?
+[04Jan2026 01:59:46.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> en el cofre que no
+[04Jan2026 01:59:53.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YacaTraka: Set the weather to clear]
+[04Jan2026 02:00:25.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> aaa
+[04Jan2026 02:00:31.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> este cofre pones cosas
+[04Jan2026 02:01:20.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> XD
+[04Jan2026 02:01:21.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> wtf
+[04Jan2026 02:01:34.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> solo reemplaza los de abeto
+[04Jan2026 02:01:38.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> no me jodas
+[04Jan2026 02:01:43.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> no tala todo el arbol?
+[04Jan2026 02:02:12.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> ponle de abeto
+[04Jan2026 02:02:22.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> se puede para
+[04Jan2026 02:02:36.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> esta cosa genera mucha madera
+[04Jan2026 02:02:42.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> demasiada
+[04Jan2026 02:02:48.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> por eso se puede apagar XD
+[04Jan2026 02:02:53.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> mira el carbón
+[04Jan2026 02:03:39.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> se puede comprimir pero pierdes un tronco por compresión
+[04Jan2026 02:03:47.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> si quieres granja de abeto quitamos los de roble
+[04Jan2026 02:03:51.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> un chingo de carbon como debe de ser
+[04Jan2026 02:03:56.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> pues no estaría mal
+[04Jan2026 02:04:07.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> porque las construcciones del minecolonies van a ser con abeto
+[04Jan2026 02:04:32.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> hell yeah
+[04Jan2026 02:05:23.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> ps pon los brotes
+[04Jan2026 02:05:42.075] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YacaTraka moved wrongly!
+[04Jan2026 02:05:44.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> alv
+[04Jan2026 02:06:10.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> le tienes que cambiar el filtro a todos los deployers?
+[04Jan2026 02:06:15.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> ei
+[04Jan2026 02:06:20.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> ten
+[04Jan2026 02:07:08.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> aca hay polvo
+[04Jan2026 02:07:50.020] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[04Jan2026 02:07:50.021] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 1
+[04Jan2026 02:07:50.021] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 1
+[04Jan2026 02:07:50.021] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[04Jan2026 02:07:50.021] [Server thread/INFO] [AllTheLeaks/]: B: 2985MB / C: 3229MB / Diff: +244MB
+[04Jan2026 02:07:50.021] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[04Jan2026 02:07:50.021] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[04Jan2026 02:07:50.021] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 2
+[04Jan2026 02:07:50.021] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[04Jan2026 02:07:50.021] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 851
+[04Jan2026 02:08:08.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> no quiere
+[04Jan2026 02:08:43.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> hay que adaptarla
+[04Jan2026 02:09:16.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> ay
+[04Jan2026 02:09:23.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> que troncote
+[04Jan2026 02:09:39.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> me asusté un momento
+[04Jan2026 02:09:59.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> no se puede no expandir este bioma?
+[04Jan2026 02:10:19.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> que bioma?
+[04Jan2026 02:10:24.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> esta cosa
+[04Jan2026 02:10:35.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> cuando crece un arbolote se expande
+[04Jan2026 02:10:40.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> no se si tiene crafteo
+[04Jan2026 02:10:53.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> tonces hacemos hueco de uno?
+[04Jan2026 02:11:03.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> como
+[04Jan2026 02:11:13.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> si estan todo junto no crecen
+[04Jan2026 02:11:25.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> ahh ya
+[04Jan2026 02:11:25.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> tienehn que tener separacion no como los de roblwe
+[04Jan2026 02:11:29.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> aaa
+[04Jan2026 02:11:39.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <IceDog96> este le valió
+[04Jan2026 02:11:57.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> crecen como quieren los malditos
+[04Jan2026 02:13:48.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> sabes que deberiamos hacer un dia nomas por los jajas
+[04Jan2026 02:13:55.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> un mundo con el tickrate super alto
+[04Jan2026 02:14:16.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <YacaTraka> con keepinventory y sin pantalla de muerte
+[04Jan2026 02:16:39.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IceDog96 lost connection: Disconnected
+[04Jan2026 02:16:39.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IceDog96 left the game
+[04Jan2026 02:16:43.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Jan2026 02:16:43.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ijk<--[HERE]
+[04Jan2026 02:17:48.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YacaTraka: Set own game mode to Creative Mode]
+[04Jan2026 02:17:50.059] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[04Jan2026 02:17:50.060] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 1
+[04Jan2026 02:17:50.060] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 2
+[04Jan2026 02:17:50.060] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[04Jan2026 02:17:50.060] [Server thread/INFO] [AllTheLeaks/]: B: 2985MB / C: 3166MB / Diff: +181MB
+[04Jan2026 02:17:50.060] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[04Jan2026 02:17:50.060] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[04Jan2026 02:17:50.060] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 3
+[04Jan2026 02:17:53.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [YacaTraka: Set own game mode to Survival Mode]
+[04Jan2026 02:26:10.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Jan2026 02:26:10.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fgj<--[HERE]
+[04Jan2026 02:27:50.117] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[04Jan2026 02:27:50.117] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 1
+[04Jan2026 02:27:50.117] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 2
+[04Jan2026 02:27:50.117] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[04Jan2026 02:27:50.117] [Server thread/INFO] [AllTheLeaks/]: B: 2985MB / C: 3178MB / Diff: +193MB
+[04Jan2026 02:27:50.117] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[04Jan2026 02:27:50.117] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[04Jan2026 02:27:50.117] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 3
+[04Jan2026 02:34:37.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YacaTraka lost connection: Disconnected
+[04Jan2026 02:34:37.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YacaTraka left the game
+[04Jan2026 02:37:50.145] [Server thread/INFO] [AllTheLeaks/]: Listing events...
+[04Jan2026 02:37:50.145] [Server thread/INFO] [AllTheLeaks/]: Server Player Clone: 1
+[04Jan2026 02:37:50.146] [Server thread/INFO] [AllTheLeaks/]: Server Player Logout: 3
+[04Jan2026 02:37:50.146] [Server thread/INFO] [AllTheLeaks/]: Listing memory leaks so far...
+[04Jan2026 02:37:50.146] [Server thread/INFO] [AllTheLeaks/]: B: 2985MB / C: 3170MB / Diff: +185MB
+[04Jan2026 02:37:50.146] [Server thread/INFO] [AllTheLeaks/]: Memory Leaks detected: (/atl force_refresh to update)
+[04Jan2026 02:37:50.146] [Server thread/INFO] [AllTheLeaks/]: | Player:
+[04Jan2026 02:37:50.146] [Server thread/INFO] [AllTheLeaks/]: |- ServerPlayer (minecraft): 4
+[04Jan2026 02:37:50.146] [Server thread/INFO] [AllTheLeaks/]: | ChunkAccess:
+[04Jan2026 02:37:50.146] [Server thread/INFO] [AllTheLeaks/]: |- LevelChunk (minecraft): 1189
+[04Jan2026 02:44:05.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[04Jan2026 02:44:05.302] [Server thread/INFO] [com.example.soundattract.SoundAttractMod/]: Shut down SoundTracker worker threads.
+[04Jan2026 02:44:05.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[04Jan2026 02:44:05.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[04Jan2026 02:44:05.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[04Jan2026 02:44:05.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[04Jan2026 02:44:05.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/irons_spellbooks:pocket_dimension
+[04Jan2026 02:44:05.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[04Jan2026 02:44:05.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/createteleporters:pocket_dimension
+[04Jan2026 02:44:05.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[04Jan2026 02:44:05.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[04Jan2026 02:44:05.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[04Jan2026 02:44:05.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[04Jan2026 02:44:05.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (pocket_dimension): All chunks are saved
+[04Jan2026 02:44:05.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[04Jan2026 02:44:05.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[04Jan2026 02:44:07.489] [Server thread/INFO] [Framework/]: Unloading server configs...
+[04Jan2026 02:44:07.490] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[04Jan2026 02:44:07.493] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config easyanvils-server.toml
+[04Jan2026 02:44:07.493] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config pickupnotifier/pickupnotifier-server.toml
+[04Jan2026 02:44:07.494] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config universalbonemeal-server.toml
+[04Jan2026 02:44:07.496] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config tradingpost-server.toml
+[04Jan2026 02:44:07.496] [Server thread/INFO] [Puzzles Lib/]: Dispatching unloading event for config easymagic-server.toml
+[04Jan2026 02:44:07.496] [Server thread/INFO] [net.sindarin27.farsightedmobs.Config/]: Loading config
+[04Jan2026 02:44:07.500] [Server thread/ERROR] [net.neoforged.fml.javafmlmod.FMLModContainer/]: Exception caught during firing event: Cannot get config value before config is loaded.
+	Index: 0
+	Listeners:
+		0: net.neoforged.bus.EventListenerFactory$onLoad/0x00007cc4766f5400@361a08c7
+java.lang.IllegalStateException: Cannot get config value before config is loaded.
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.base.Preconditions.checkState(Preconditions.java:512)
+	at TRANSFORMER/neoforge@21.1.215/net.neoforged.neoforge.common.ModConfigSpec$ConfigValue.getRaw(ModConfigSpec.java:1235)
+	at TRANSFORMER/neoforge@21.1.215/net.neoforged.neoforge.common.ModConfigSpec$ConfigValue.get(ModConfigSpec.java:1222)
+	at TRANSFORMER/farsightedmobs@2.1.1/net.sindarin27.farsightedmobs.Config.onLoad(Config.java:60)
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360)
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:328)
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModContainer.acceptEvent(ModContainer.java:158)
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.config.ModConfig.setConfig(ModConfig.java:79)
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.config.ConfigTracker.unloadConfig(ConfigTracker.java:236)
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75)
+	at java.base/java.util.Collections$SynchronizedCollection.forEach(Collections.java:2352)
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:129)
+	at TRANSFORMER/neoforge@21.1.215/net.neoforged.neoforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:134)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:750)
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[04Jan2026 02:44:07.501] [Server thread/ERROR] [net.neoforged.fml.ModContainer/LOADING]: Caught exception during event net.neoforged.fml.event.config.ModConfigEvent$Unloading@4239ab81 dispatch for modid farsightedmobs
+java.lang.IllegalStateException: Cannot get config value before config is loaded.
+	at MC-BOOTSTRAP/com.google.common@32.1.2-jre/com.google.common.base.Preconditions.checkState(Preconditions.java:512) ~[guava-32.1.2-jre.jar%2385!/:?]
+	at TRANSFORMER/neoforge@21.1.215/net.neoforged.neoforge.common.ModConfigSpec$ConfigValue.getRaw(ModConfigSpec.java:1235) ~[neoforge-21.1.215-universal.jar%23346!/:?]
+	at TRANSFORMER/neoforge@21.1.215/net.neoforged.neoforge.common.ModConfigSpec$ConfigValue.get(ModConfigSpec.java:1222) ~[neoforge-21.1.215-universal.jar%23346!/:?]
+	at TRANSFORMER/farsightedmobs@2.1.1/net.sindarin27.farsightedmobs.Config.onLoad(Config.java:60) ~[farsightedmobs-neoforge-2.1.1-1.20.6.jar%23445!/:?]
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:360) ~[bus-8.0.5.jar%2360!/:?]
+	at MC-BOOTSTRAP/net.neoforged.bus/net.neoforged.bus.EventBus.post(EventBus.java:328) ~[bus-8.0.5.jar%2360!/:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModContainer.acceptEvent(ModContainer.java:158) ~[loader-4.0.42.jar%2357!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.config.ModConfig.setConfig(ModConfig.java:79) ~[loader-4.0.42.jar%2357!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.config.ConfigTracker.unloadConfig(ConfigTracker.java:236) ~[loader-4.0.42.jar%2357!/:4.0]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.base/java.util.Collections$SynchronizedCollection.forEach(Collections.java:2352) ~[?:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:129) ~[loader-4.0.42.jar%2357!/:4.0]
+	at TRANSFORMER/neoforge@21.1.215/net.neoforged.neoforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:134) ~[neoforge-21.1.215-universal.jar%23346!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:750) ~[server-1.21.1-20240808.144430-srg.jar%23345!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23345!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
+[04Jan2026 02:44:07.504] [Server thread/ERROR] [net.minecraft.server.MinecraftServer/]: Uncaught exception in server thread
+net.neoforged.fml.ModLoadingException: Loading errors encountered:
+	- Farsighted Mobs (farsightedmobs) encountered an error while dispatching the net.neoforged.fml.event.config.ModConfigEvent$Unloading event
+	  java.lang.IllegalStateException: Cannot get config value before config is loaded.
+
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.ModContainer.acceptEvent(ModContainer.java:162) ~[loader-4.0.42.jar%2357!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.config.ModConfig.setConfig(ModConfig.java:79) ~[loader-4.0.42.jar%2357!/:4.0]
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.config.ConfigTracker.unloadConfig(ConfigTracker.java:236) ~[loader-4.0.42.jar%2357!/:4.0]
+	at java.base/java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
+	at java.base/java.util.Collections$SynchronizedCollection.forEach(Collections.java:2352) ~[?:?]
+	at MC-BOOTSTRAP/fml_loader@4.0.42/net.neoforged.fml.config.ConfigTracker.unloadConfigs(ConfigTracker.java:129) ~[loader-4.0.42.jar%2357!/:4.0]
+	at TRANSFORMER/neoforge@21.1.215/net.neoforged.neoforge.server.ServerLifecycleHooks.handleServerStopped(ServerLifecycleHooks.java:134) ~[neoforge-21.1.215-universal.jar%23346!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:750) ~[server-1.21.1-20240808.144430-srg.jar%23345!/:?]
+	at TRANSFORMER/minecraft@1.21.1/net.minecraft.server.MinecraftServer.lambda$spin$2(MinecraftServer.java:267) ~[server-1.21.1-20240808.144430-srg.jar%23345!/:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) [?:?]
